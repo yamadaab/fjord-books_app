@@ -46,7 +46,6 @@ class BooksTest < ApplicationSystemTestCase
     page.accept_confirm do
       click_on '削除', match: :first
     end
-
     assert_text '本が削除されました。'
   end
 end
