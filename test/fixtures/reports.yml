@@ -4,8 +4,4 @@ one:
   user: one
   title: MyString
   content: MyText
-
-two:
-  user: two
-  title: MyString
-  content: MyText
+  user: alice
